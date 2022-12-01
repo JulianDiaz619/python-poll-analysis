@@ -9,7 +9,7 @@ This section will be going over:
 * Winner of the election
 
 
-![image](python-poll-analysis/Election Analysis Resources/total_votes.png)
+![image](/Election Analysis Resources/total_votes.png)
 
 
 ## Election Audit Summary
