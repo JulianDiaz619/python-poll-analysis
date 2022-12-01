@@ -1,2 +1,4 @@
-# python-poll-analysis
-Analyzing poll data leveraging python script.
+# Python Poll Analysis
+## Overview of Election Audit
+## Election Audit Results
+## Election Audit Summary
