@@ -17,5 +17,7 @@ The final results will be shown at the end of the README.
 #### Largest County Turnout
 ![image](/resources/CountyTurnout.png)
 
+  The code above shows a for loop that gathers the percentages for each county and prints them all out accordingly. Below that is an if statement to figure out which county had the largest turnout and to print that out. Everything is then saved to the text file.
+
 ## Election Audit Summary
 
