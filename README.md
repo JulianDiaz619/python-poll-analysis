@@ -19,5 +19,9 @@ The final results will be shown at the end of the README.
 
   The code above shows a for loop that gathers the percentages for each county and prints them all out accordingly. Below that is an if statement to figure out which county had the largest turnout and to print that out. Everything is then saved to the text file.
 
+#### Percentage of voters and Election Winner
+![image](/resources/electionwinner.png)
+
+  The code above is quite similar to the code used for the county voter percentages as well as the largest voter turnout, except its to calculate the voter percentages for each candidate rather than county, and to find the winner of the election. It begins with a for loop that gathers and prints according percentages to whomever candidate it is currently on. After there is an if statement that find the candidate with the most amount of votes deeming them the winner. The main difference between this code and the one seen in "Largest County Turnout" is simply the fact that there is more in the printed statement at the end. This one has the winner of the election as well as their total votes and voter percentage.
 ## Election Audit Summary
 
