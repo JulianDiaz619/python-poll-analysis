@@ -8,5 +8,11 @@ This section will be going over:
 * Percentages of voters for each candidate
 * Winner of the election
 
+#### Total Votes
+![total_votes_variable](/Election Analysis Resources/total_votes.png)
+
+To calculate the total number of votes, I wrote the code shown above to create a variable to increment named "total_votes_counties" and set it equal to zero.
+
+
 ## Election Audit Summary
 
