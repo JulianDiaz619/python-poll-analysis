@@ -7,11 +7,7 @@ This section will be going over:
 * Largest County Turnout
 * Percentages of voters for each candidate
 * Winner of the election
-
-#### Total Votes
-![totalvotesvariable](/total_votes.png)
-
-To calculate the total number of votes, I wrote the code shown above to create a variable to increment named "total_votes_counties" and set it equal to zero.
+![](python-poll-analysis/Election Analysis Resources/total_votes.png)
 
 
 ## Election Audit Summary
