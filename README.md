@@ -7,7 +7,9 @@ This section will be going over:
 * Largest County Turnout
 * Percentages of voters for each candidate
 * Winner of the election
-![](python-poll-analysis/Election Analysis Resources/total_votes.png)
+
+
+![image](python-poll-analysis/Election Analysis Resources/total_votes.png)
 
 
 ## Election Audit Summary
